@@ -7,17 +7,17 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-356c9a?style=flat&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
 
 ![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
-![Vue.js](https://img.shields.io/badge/-Vue.js-0C4B33?style=flat&logo=Vue.js) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=Vue.js) 
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
 ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
-![Nginx](https://img.shields.io/badge/-Nginx-009136?style=flat&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat&logo=MONGODB)
