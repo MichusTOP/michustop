@@ -1,8 +1,6 @@
 ### Hi, I'm Michał! 👋
 <img src="https://komarev.com/ghpvc/?username=michustop" alt="MICHUSTOP" />
 
-###### - 😄 Junior FullStack Developer 
-
 #### ⚡ Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
@@ -22,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat&logo=MONGODB)
 
-#### 💻 My projects:
+#### 🔭 My projects:
 ###### - [gumispeak.pl](https://gumispeak.pl) (Codeigniter + PHP + MONGODB)
 ###### - [tsup.pl](https://tsup.pl) (Codeigniter + PHP + MONGODB + AJAX)
 ###### - [bud-expert.net.pl](https://bud-expert.net.pl) (Codeigniter + PHP)
