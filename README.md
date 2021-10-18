@@ -25,6 +25,7 @@
 ###### - [tsup.pl](https://tsup.pl) (Codeigniter + PHP + MONGODB + AJAX)
 ###### - [bud-expert.net.pl](https://bud-expert.net.pl) (Codeigniter + PHP)
 ###### - [proarti.com.pl](https://proarti.com.pl) (HTML + PHP)
+###### - [luxbuspoznan.pl](https://luxbuspoznan.pl/) (Codeigniter + PHP + AJAX)
 
 #### 💬 SocialMedia:
 ###### - Discord: MichUŚŚŚ™ 🔥#2624
