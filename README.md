@@ -37,7 +37,7 @@
 #### 💬 SocialMedia:
 ###### - Discord: MichUŚŚŚ™ 🔥#2624
 ###### - Mail: michussstop@gmail.com
-###### - Slack: https://michussstop.slack.com
+###### - Slack: https://michustop.slack.com
 ###### - Website: https://michus.top
 
 
