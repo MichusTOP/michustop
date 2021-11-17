@@ -7,18 +7,25 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=Ruby)
 
 ![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
+![CakePHP](https://img.shields.io/badge/-cakephp-black?style=flat&logo=cakephp)
+![Symfony](https://img.shields.io/badge/-symfony-black?style=flat&logo=symfony)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=Vue.js) 
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=React) 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
 ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx)
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat&logo=MONGODB)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
 #### 🔭 My projects:
 ###### - [gumispeak.pl](https://gumispeak.pl) (Codeigniter + PHP + MONGODB)
