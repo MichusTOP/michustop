@@ -27,7 +27,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
-#### 🔭 My projects:
+#### 🔭 Some projects:
 ###### - [gumispeak.pl](https://gumispeak.pl) (Codeigniter + PHP + MONGODB)
 ###### - [tsup.pl](https://tsup.pl) (Codeigniter + PHP + MONGODB + AJAX)
 ###### - [bud-expert.net.pl](https://bud-expert.net.pl) (Codeigniter + PHP)
@@ -36,6 +36,8 @@
 
 #### 💬 SocialMedia:
 ###### - Discord: MichUŚŚŚ™ 🔥#2624
+###### - Mail: michussstop@gmail.com
+###### - Slack: https://michussstop.slack.com
 ###### - Website: https://michus.top
 
 
