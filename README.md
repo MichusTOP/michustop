@@ -27,11 +27,17 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual%20Studio%20Code)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat&logo=PhpStorm)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat&logo=Sublime%20Text)
+
 #### 🔭 Some projects:
+###### - [bud-expert.net.pl](https://bud-expert.net.pl) (Codeigniter + PHP)
+###### - [optimaprojekt.pl](https://optimaprojekt.pl) (Codeigniter + PHP)
+###### - [tubisz.pl](https://tubisz.pl) (HTML + CSS + PHP)
+###### - [proarti.com.pl](https://proarti.com.pl) (HTML + PHP)
 ###### - [gumispeak.pl](https://gumispeak.pl) (Codeigniter + PHP + MONGODB)
 ###### - [tsup.pl](https://tsup.pl) (Codeigniter + PHP + MONGODB + AJAX)
-###### - [bud-expert.net.pl](https://bud-expert.net.pl) (Codeigniter + PHP)
-###### - [proarti.com.pl](https://proarti.com.pl) (HTML + PHP)
 ###### - [luxbuspoznan.pl](https://luxbuspoznan.pl/) (Codeigniter + PHP + AJAX)
 ###### - [wietnet.eu](https://wietnet.eu/) (Codeigniter + PHP + AJAX)
 ###### - [mscode.xyz](https://mscode.xyz/) (Codeigniter4 + HTML + CSS)
