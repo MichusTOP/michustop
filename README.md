@@ -14,7 +14,6 @@
 ![CakePHP](https://img.shields.io/badge/-cakephp-black?style=flat&logo=cakephp)
 ![Symfony](https://img.shields.io/badge/-symfony-black?style=flat&logo=symfony)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=Vue.js) 
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=React) 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
@@ -31,6 +30,7 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat&logo=PhpStorm)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat&logo=Sublime%20Text)
 
+<!--
 #### 🔭 Some projects:
 ###### - [bud-expert.net.pl](https://bud-expert.net.pl) (Codeigniter + PHP)
 ###### - [optimaprojekt.pl](https://optimaprojekt.pl) (Codeigniter + PHP)
@@ -41,6 +41,7 @@
 ###### - [luxbuspoznan.pl](https://luxbuspoznan.pl/) (Codeigniter + PHP + AJAX)
 ###### - [wietnet.eu](https://wietnet.eu/) (Codeigniter + PHP + AJAX)
 ###### - [mscode.xyz](https://mscode.xyz/) (Codeigniter4 + HTML + CSS)
+-->
 
 #### 💬 SocialMedia:
 ###### - Discord: MichUŚŚŚ™ 🔥#2624
