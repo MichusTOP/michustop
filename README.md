@@ -5,8 +5,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 
 ![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
@@ -24,9 +24,9 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual%20Studio%20Code)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat&logo=PhpStorm)
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code?style=flat&logo=Visual%20Studio%20Code)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm?style=flat&logo=PhpStorm)
+![WebStorm](https://img.shields.io/badge/-WebStorm?style=flat&logo=WebStorm)
 
 <!--
 #### 🔭 Some projects:
