@@ -7,7 +7,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=Ruby)
 
 ![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
