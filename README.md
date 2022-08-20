@@ -24,9 +24,9 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code?style=flat&logo=Visual%20Studio%20Code)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm?style=flat&logo=PhpStorm)
-![WebStorm](https://img.shields.io/badge/-WebStorm?style=flat&logo=WebStorm)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual%20Studio%20Code)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat&logo=PhpStorm)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm)
 
 <!--
 #### 🔭 Some projects:
