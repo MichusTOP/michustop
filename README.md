@@ -13,7 +13,6 @@
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
 ![CakePHP](https://img.shields.io/badge/-cakephp-black?style=flat&logo=cakephp)
 ![Symfony](https://img.shields.io/badge/-symfony-black?style=flat&logo=symfony)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=Vue.js) 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
