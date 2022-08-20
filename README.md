@@ -26,8 +26,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual%20Studio%20Code)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat&logo=PhpStorm)
-![Sublime Text](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm)
-![Sublime Text](https://img.shields.io/badge/-Fleet-black?style=flat&logo=Fleet)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm)
 
 <!--
 #### 🔭 Some projects:
