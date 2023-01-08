@@ -1,6 +1,12 @@
 ### Hi, I'm Michał! 👋
 <img src="https://komarev.com/ghpvc/?username=michustop" alt="MICHUSTOP" />
 
+#### 💬 SocialMedia:
+###### - Discord: MichUŚŚŚ™ 🔥#2624
+###### - Mail: michussstop@gmail.com
+###### - Website: https://michus.studio
+
+
 #### ⚡ Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
@@ -41,13 +47,6 @@
 ###### - [wietnet.eu](https://wietnet.eu/) (Codeigniter + PHP + AJAX)
 ###### - [mscode.xyz](https://mscode.xyz/) (Codeigniter4 + HTML + CSS)
 -->
-
-#### 💬 SocialMedia:
-###### - Discord: MichUŚŚŚ™ 🔥#2624
-###### - Mail: michussstop@gmail.com
-###### - Website: https://mscode.xyz
-
-
 
 
 
