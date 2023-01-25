@@ -4,7 +4,7 @@
 #### 💬 SocialMedia:
 ###### - Discord: MichUŚŚŚ™ 🔥#2624
 ###### - Mail: michussstop@gmail.com
-###### - Website: https://michus.studio
+###### - Website: https://michus.studio / https://mscode.xyz
 
 
 #### ⚡ Languages and Tools:
