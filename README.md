@@ -1,29 +1,34 @@
-### Hi, I'm Michał! 👋
+## Hi, I'm Michał! 👋
 <img src="https://komarev.com/ghpvc/?username=michustop" alt="MICHUSTOP" />
 
-#### 💬 SocialMedia:
-###### - Discord: MichUŚŚŚ™ 🔥#2624
-###### - Mail: michussstop@gmail.com
-###### - Website: https://michus.studio / https://mscode.xyz
+### 💬 Contact:
+```
+MichUŚŚŚ™ 🔥#2624
+```
+```
+michussstop@gmail.com
+```
+```
+https://michus.studio 
+```
 
-
-#### ⚡ Languages and Tools:
+### ⚡ Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 
-![Express](https://img.shields.io/badge/-express.js-black?style=flat&logo=express)
-![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat&logo=codeigniter)
+![express.js](https://img.shields.io/badge/-express.js-black?style=flat&logo=express)
+![codeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
 ![CakePHP](https://img.shields.io/badge/-cakephp-black?style=flat&logo=cakephp)
 ![Symfony](https://img.shields.io/badge/-symfony-black?style=flat&logo=symfony)
+![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-
-![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx)
+![GitLab](https://img.shields.io/badge/-Gitlab-black?style=flat&logo=gitlab)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat&logo=MONGODB)
@@ -31,36 +36,6 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual%20Studio%20Code)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat&logo=PhpStorm)
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm)
+### 🏆 Stats
 
-<!--
-#### 🔭 Some projects:
-###### - [bud-expert.net.pl](https://bud-expert.net.pl) (Codeigniter + PHP)
-###### - [optimaprojekt.pl](https://optimaprojekt.pl) (Codeigniter + PHP)
-###### - [tubisz.pl](https://tubisz.pl) (HTML + CSS + PHP)
-###### - [proarti.com.pl](https://proarti.com.pl) (HTML + PHP)
-###### - [gumispeak.pl](https://gumispeak.pl) (Codeigniter + PHP + MONGODB)
-###### - [tsup.pl](https://tsup.pl) (Codeigniter + PHP + MONGODB + AJAX)
-###### - [luxbuspoznan.pl](https://luxbuspoznan.pl/) (Codeigniter + PHP + AJAX)
-###### - [wietnet.eu](https://wietnet.eu/) (Codeigniter + PHP + AJAX)
-###### - [mscode.xyz](https://mscode.xyz/) (Codeigniter4 + HTML + CSS)
--->
-
-
-
-<!--
-**MichusTOP/michustop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=michustop&show_icons=true&theme=radical)
