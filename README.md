@@ -9,7 +9,7 @@ MichUŚŚŚ™ 🔥#2624
 michussstop@gmail.com
 ```
 ```
-https://michus.studio 
+https://michus.top 
 ```
 
 ### ⚡ Languages and Tools:
