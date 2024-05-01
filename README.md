@@ -3,7 +3,7 @@
 
 ### 💬 Contact:
 ```
-MichUŚŚŚ™ 🔥#2624
+DC - michustop
 ```
 ```
 michussstop@gmail.com
