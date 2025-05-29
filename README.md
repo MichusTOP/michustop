@@ -18,7 +18,6 @@ https://michus.top
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-
 ![express.js](https://img.shields.io/badge/-express.js-black?style=flat&logo=express)
 ![codeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
@@ -26,10 +25,8 @@ https://michus.top
 ![Symfony](https://img.shields.io/badge/-symfony-black?style=flat&logo=symfony)
 ![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI)
-
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-Gitlab-black?style=flat&logo=gitlab)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat&logo=MONGODB)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite)
