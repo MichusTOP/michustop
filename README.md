@@ -3,13 +3,7 @@
 
 ### 💬 Contact:
 ```
-DC - michustop
-```
-```
 michussstop@gmail.com
-```
-```
-https://michus.top 
 ```
 
 ### ⚡ Languages and Tools:
