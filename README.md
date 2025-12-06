@@ -26,7 +26,3 @@ michussstop@gmail.com
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
-
-### 🏆 Stats
-
-![](https://github-readme-stats.vercel.app/api?username=michustop&show_icons=true&theme=radical)
