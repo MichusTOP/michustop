@@ -26,3 +26,7 @@ michussstop@gmail.com
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
+
+### 📊 Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MichusTOP&theme=dracula&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
