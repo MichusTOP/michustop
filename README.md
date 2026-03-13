@@ -9,7 +9,9 @@ michussstop@gmail.com
 ### ⚡ Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
+![EXPO](https://img.shields.io/badge/-EXPO-black?style=flat&logo=EXPO)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![express.js](https://img.shields.io/badge/-express.js-black?style=flat&logo=express)
